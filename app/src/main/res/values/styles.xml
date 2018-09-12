@@ -1,0 +1,84 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="main">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@drawable/wood</item>
+    </style>
+
+    <style name="tview">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Styles and Material Design</item>
+
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">24dp</item>
+    </style>
+
+    <style name="pic">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">218dp</item>
+
+
+    </style>
+
+    <style name="titleView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Coconut Palace</item>
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">35dp</item>
+    </style>
+
+    <style name="content">
+        <item name="android:layout_width">306dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Location: Roxas Blvd Cultural Center complex, Manila, Luzon Philippines</item>
+        <item name="android:fontFamily">serif-monospace</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="content2">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Distance from UST: 4.8KM</item>
+        <item name="android:fontFamily">serif-monospace</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="button1">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">BACK</item>
+        <item name="android:fontFamily">casual</item>
+        <item name="android:background">#c6c6c6</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="button2">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">NEXT</item>
+        <item name="android:fontFamily">casual</item>
+        <item name="android:background">#c6c6c6</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+</resources>
